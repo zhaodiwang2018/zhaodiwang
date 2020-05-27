@@ -5,7 +5,7 @@
 
 #### 软件架构
 Django + Uwsgi + MySQL + Vue
-
+22232
 
 #### 安装教程
 
