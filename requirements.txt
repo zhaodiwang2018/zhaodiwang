@@ -7,7 +7,7 @@ Django==2.1
 django-cors-headers==3.0.2
 django-multiselectfield==0.1.8
 django-redis==4.10.0
-djangorestframework==3.10.1
+djangorestframework==3.11.2
 DjangoUeditor==1.8.143
 dwebsocket==0.5.10
 idna==2.8
